@@ -1,0 +1,35 @@
+{
+  "name": "restapi_express",
+  "version": "1.0.0",
+  "description": "Simple skeleton for writing REST API using ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schakraborty2050/restAPI_express.git"
+  },
+  "keywords": [
+    "simple",
+    "REST",
+    "API",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Suman Chakraborty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schakraborty2050/restAPI_express/issues"
+  },
+  "homepage": "https://github.com/schakraborty2050/restAPI_express#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.7",
+    "node-uuid": "^1.4.8",
+    "swagger-ui-express": "^4.1.2"
+  }
+}
